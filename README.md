@@ -1,0 +1,2 @@
+# AnimuBot
+A Discord AnimuBot
